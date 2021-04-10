@@ -45,4 +45,4 @@ output as follow
 2021-04-10 16:46:50,346: Key.shift_r
 ```
 #### this keylogger can be used on windows/linux/Mac
-#### you can Hide this code on .jpg/.png/.pdf with "steganography" then send to the victims
+#### ʕ•́ᴥ•̀ʔ you can Hide this code on .jpg/.png/.pdf with "steganography" then send to the victims
