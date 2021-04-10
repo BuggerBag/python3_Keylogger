@@ -48,3 +48,4 @@ output as follow
 ```
 #### this keylogger can be used on windows/linux/Mac
 #### ʕ•́ᴥ•̀ʔ you can Hide this code on .jpg/.png/.pdf with "steganography" then send to the victims
+#### 🎲This file is just an internet joke and nothing else🎲
