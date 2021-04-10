@@ -2,7 +2,9 @@
 python3 keylogger 
 
 1) install python 3 then install pynput with following command
-#### python -m pip install pynput
+	```python
+		 python -m pip install pynput
+	```
 2) output was automatically saved on script directory that was running <br>
 3) Use Shell as follow<br>
   3-1) win+R<br>
