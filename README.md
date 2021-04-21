@@ -49,3 +49,4 @@ output as follow
 #### this keylogger can be used on windows/linux/Mac
 #### ʕ•́ᴥ•̀ʔ you can Hide this code on .jpg/.png/.pdf with "steganography" then send to the victims
 #### 🎲This file is just an internet joke and nothing else🎲
+<div><a href="https://wallet.nimiq.com/nimiq:NQ22NDADB32E37NV4BN56APH0VAFR3JVGJ49" target="_blank"><img src="https://www.nimiq.com/accept-donations/img/donationBtnImg/blue-big.svg" width="150"/></a></div>
